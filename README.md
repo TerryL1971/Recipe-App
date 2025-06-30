@@ -1,2 +1,2 @@
-# Recipe-App
-Recipe finder using Expo React Native
+# recipe-app
+Recipe Finder App
